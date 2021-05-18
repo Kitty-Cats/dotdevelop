@@ -30,7 +30,7 @@ jobs:
         # Artifact name
         name: build-ubuntu-20.04 # optional, default is artifact
         # A file, directory or wildcard pattern that describes what to upload
-        path: /home/runner/work
+        path: /home/runner/work/dotdevelop/main/build
         # The desired behavior if no files are found using the provided path.
     #Available Options:
       #warn: Output a warning but do not fail the action
